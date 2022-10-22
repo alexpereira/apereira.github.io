@@ -18,6 +18,8 @@ body {
   font-size: 16px;
   text-align: center;
   overflow: hidden;
+  font-size: 40px;
+  overflow-wrap: anywhere;
 }
 
 #pads {
